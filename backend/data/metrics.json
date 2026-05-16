@@ -1,0 +1,114 @@
+[
+  {
+    "developerId": "DEV-001",
+    "metrics": {
+      "leadTime": 3.35,
+      "cycleTime": 3.9,
+      "bugRate": 0.0,
+      "deploymentFrequency": 2,
+      "prThroughput": 2,
+      "trend": [
+        { "month": "Mar", "leadTime": 2.4,  "cycleTime": 3.95, "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 },
+        { "month": "Apr", "leadTime": 3.35, "cycleTime": 3.9,  "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 }
+      ]
+    }
+  },
+  {
+    "developerId": "DEV-002",
+    "metrics": {
+      "leadTime": 3.75,
+      "cycleTime": 5.4,
+      "bugRate": 0.5,
+      "deploymentFrequency": 2,
+      "prThroughput": 2,
+      "trend": [
+        { "month": "Mar", "leadTime": 4.3,  "cycleTime": 5.9, "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 },
+        { "month": "Apr", "leadTime": 3.75, "cycleTime": 5.4, "bugRate": 0.5, "deploymentFrequency": 2, "prThroughput": 2 }
+      ]
+    }
+  },
+  {
+    "developerId": "DEV-006",
+    "metrics": {
+      "leadTime": 2.35,
+      "cycleTime": 3.7,
+      "bugRate": 0.5,
+      "deploymentFrequency": 2,
+      "prThroughput": 2,
+      "trend": [
+        { "month": "Mar", "leadTime": 2.35, "cycleTime": 3.75, "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 },
+        { "month": "Apr", "leadTime": 2.35, "cycleTime": 3.7,  "bugRate": 0.5, "deploymentFrequency": 2, "prThroughput": 2 }
+      ]
+    }
+  },
+  {
+    "developerId": "DEV-003",
+    "metrics": {
+      "leadTime": 3.55,
+      "cycleTime": 3.05,
+      "bugRate": 0.0,
+      "deploymentFrequency": 2,
+      "prThroughput": 2,
+      "trend": [
+        { "month": "Mar", "leadTime": 3.85, "cycleTime": 4.05, "bugRate": 0.5, "deploymentFrequency": 2, "prThroughput": 2 },
+        { "month": "Apr", "leadTime": 3.55, "cycleTime": 3.05, "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 }
+      ]
+    }
+  },
+  {
+    "developerId": "DEV-004",
+    "metrics": {
+      "leadTime": 2.9,
+      "cycleTime": 3.55,
+      "bugRate": 0.0,
+      "deploymentFrequency": 2,
+      "prThroughput": 2,
+      "trend": [
+        { "month": "Mar", "leadTime": 2.1, "cycleTime": 3.85, "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 },
+        { "month": "Apr", "leadTime": 2.9, "cycleTime": 3.55, "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 }
+      ]
+    }
+  },
+  {
+    "developerId": "DEV-008",
+    "metrics": {
+      "leadTime": 3.4,
+      "cycleTime": 3.85,
+      "bugRate": 0.5,
+      "deploymentFrequency": 2,
+      "prThroughput": 2,
+      "trend": [
+        { "month": "Mar", "leadTime": 3.15, "cycleTime": 3.8,  "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 },
+        { "month": "Apr", "leadTime": 3.4,  "cycleTime": 3.85, "bugRate": 0.5, "deploymentFrequency": 2, "prThroughput": 2 }
+      ]
+    }
+  },
+  {
+    "developerId": "DEV-005",
+    "metrics": {
+      "leadTime": 4.7,
+      "cycleTime": 6.5,
+      "bugRate": 0.0,
+      "deploymentFrequency": 2,
+      "prThroughput": 2,
+      "trend": [
+        { "month": "Mar", "leadTime": 4.95, "cycleTime": 5.95, "bugRate": 0.5, "deploymentFrequency": 2, "prThroughput": 2 },
+        { "month": "Apr", "leadTime": 4.7,  "cycleTime": 6.5,  "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 }
+      ]
+    }
+  },
+  {
+    "developerId": "DEV-007",
+    "metrics": {
+      "leadTime": 3.65,
+      "cycleTime": 4.8,
+      "bugRate": 0.0,
+      "deploymentFrequency": 2,
+      "prThroughput": 2,
+      "trend": [
+        { "month": "Mar", "leadTime": 4.3,  "cycleTime": 4.55, "bugRate": 0.5, "deploymentFrequency": 2, "prThroughput": 2 },
+        { "month": "Apr", "leadTime": 3.65, "cycleTime": 4.8,  "bugRate": 0.0, "deploymentFrequency": 2, "prThroughput": 2 }
+      ]
+    }
+  }
+]

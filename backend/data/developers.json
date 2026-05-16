@@ -1,0 +1,74 @@
+[
+  {
+    "id": "DEV-001",
+    "name": "Ava Chen",
+    "team": "Payments API",
+    "serviceType": "backend",
+    "level": "SDE2",
+    "managerId": "MGR-01",
+    "managerName": "Rina Kapoor"
+  },
+  {
+    "id": "DEV-002",
+    "name": "Noah Patel",
+    "team": "Payments API",
+    "serviceType": "backend",
+    "level": "SDE1",
+    "managerId": "MGR-01",
+    "managerName": "Rina Kapoor"
+  },
+  {
+    "id": "DEV-006",
+    "name": "Ishan Mehta",
+    "team": "Payments API",
+    "serviceType": "backend",
+    "level": "SDE3",
+    "managerId": "MGR-01",
+    "managerName": "Rina Kapoor"
+  },
+  {
+    "id": "DEV-003",
+    "name": "Mia Lopez",
+    "team": "Checkout Web",
+    "serviceType": "frontend",
+    "level": "SDE1",
+    "managerId": "MGR-02",
+    "managerName": "Samir Gupta"
+  },
+  {
+    "id": "DEV-004",
+    "name": "Lucas Reed",
+    "team": "Checkout Web",
+    "serviceType": "frontend",
+    "level": "SDE2",
+    "managerId": "MGR-02",
+    "managerName": "Samir Gupta"
+  },
+  {
+    "id": "DEV-008",
+    "name": "Zara Khan",
+    "team": "Checkout Web",
+    "serviceType": "frontend",
+    "level": "SDE1",
+    "managerId": "MGR-02",
+    "managerName": "Samir Gupta"
+  },
+  {
+    "id": "DEV-005",
+    "name": "Emma Roy",
+    "team": "Mobile Growth",
+    "serviceType": "mobile",
+    "level": "SDE1",
+    "managerId": "MGR-03",
+    "managerName": "Priya Nair"
+  },
+  {
+    "id": "DEV-007",
+    "name": "Owen Brooks",
+    "team": "Mobile Growth",
+    "serviceType": "mobile",
+    "level": "SDE2",
+    "managerId": "MGR-03",
+    "managerName": "Priya Nair"
+  }
+]
