@@ -5,7 +5,12 @@ const metricsRoute = require("./routes/metrics");
 const managerRoute = require("./routes/manager");
 const app = express();
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://developer-productivity-mvp-tawny.vercel.app",
+    credentials: true,
+  })
+);
 app.use(express.json());
 
 app.use("/api/metrics", metricsRoute);
