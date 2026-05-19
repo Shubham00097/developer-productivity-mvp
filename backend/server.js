@@ -7,7 +7,6 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://developer-productivity-mvp-tawny.vercel.app",
     credentials: true,
   })
 );
